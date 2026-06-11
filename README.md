@@ -70,3 +70,5 @@ A entrega deve ser realizada através do formulário disponibilizado pelo profes
 ## Configuração da proteção de branch
 
 ![proteção do branch](branch_protection.png)
+![Assim que o docker e a pipeline foram configuradas, foi ligado o bloqueio dos testes na pull request](require_status_checks.png)
+
